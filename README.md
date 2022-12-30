@@ -1,4 +1,4 @@
-# Quickbooks Desktop Support for Uncat
+## Quickbooks Desktop Support for Uncat
 
 Please visit [https://www.uncat.com/quickbooks-desktop-support-home](https://www.uncat.com/quickbooks-desktop-support-home) to find support articles, contact information for our team, and FAQs for Uncat's integration with Quickbooks Desktop.
 
